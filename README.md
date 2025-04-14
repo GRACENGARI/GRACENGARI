@@ -13,7 +13,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/neemangari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="neemangari" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/gracengari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gracengari" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/grace-ngari-2b8a01245/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gracengari" height="30" width="40" /></a>
 <a href="https://kaggle.com/gracenyakweangari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="gracenyakweangari" height="30" width="40" /></a>
 <a href="https://fb.com/gracengari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="gracengari" height="30" width="40" /></a>
 <a href="https://instagram.com/neema254" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="neema254" height="30" width="40" /></a>
